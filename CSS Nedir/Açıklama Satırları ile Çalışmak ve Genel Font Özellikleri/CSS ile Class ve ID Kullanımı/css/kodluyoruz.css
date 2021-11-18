@@ -1,0 +1,12 @@
+/*******************Layout*************************/
+body{
+    background-color: #010101;
+}
+h1{
+    color: slateblue;
+    font-family: 'Roboto',san-serif;
+}
+h2{
+    color: snow;
+    font-family: monospace;
+}
