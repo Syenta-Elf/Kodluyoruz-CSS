@@ -1,0 +1,33 @@
+/********************Layout*********************/
+
+/* class -> .text-red{} */
+/* id -> #id-bilgisi{} */
+h1,h2,h3,h4,h5,h6{
+    color: tomato;
+}
+
+#deneme{
+    color: turquoise;
+}
+
+.text-red{
+    color:crimson;
+}
+.text-purple{
+    color: mediumpurple;
+}
+.text-yellow{
+    color: rgb(255, 242, 128);
+}
+
+.fs-small{
+    font-size: 14px;
+}
+
+.fs-medium{
+    font-size: 20px;
+}
+
+.fs-large{
+    font-size: 30px;
+}
