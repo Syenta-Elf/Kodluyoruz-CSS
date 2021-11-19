@@ -1,0 +1,24 @@
+.color-purple.fw-bold{
+    color: purple;
+    font-weight: bold;
+}
+
+.color-red .italic{
+    font-style: italic;
+    color:crimson;
+}
+p.color-pink{
+    color: palevioletred;
+}
+/* li:last-child{
+    color:gold;
+}
+li:first-child{
+    color:hotpink;
+} */
+li:nth-child(2n){
+    color: indianred;
+}
+::marker{
+    color: lawngreen;
+}
