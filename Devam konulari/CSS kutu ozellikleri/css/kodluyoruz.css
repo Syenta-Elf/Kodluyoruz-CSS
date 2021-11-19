@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* .box{
+    height: 200px;
+    width: 200px;
+    float:left;
+    margin-left: 50px;
+}
+
+.bg-light-cyan{
+    background-color: lightcyan;
+}
+
+.bg-crimson{
+    background-color: crimson;
+} */
+
+.container{
+    width: 1000px;
+    margin: 40px auto 0;
+    height:fit-content;
+}
+
+.left-bar{
+    float: left;
+    width: 200px;
+}
+
+.content{
+    float: left;
+    width: 800px;
+}
+.bg-red{
+   background-color: crimson; 
+}
+.bg-purple{
+    background-color: plum;
+}
+.bg-blue{
+    background-color: powderblue;
+}
+.card{
+    border-radius: 15px;
+    width: 25%;
+    padding: 2%;
+    margin: 0 2%;
+    float: left;
+    background-color:rebeccapurple;
+}
