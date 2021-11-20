@@ -3,7 +3,7 @@ body{
     padding: 0;
 }
 .container{
-    width: 1000px;
+    width: 1500px;
     margin: 20px auto 0;
     height:fit-content;
 }
@@ -12,13 +12,13 @@ body{
 }
 
 .search-card{
-    width: 1000px;
+    width: 1500px;
     text-align: center;
 }
 
 .search-bar{
     height: 25px;
-    width: 500px;
+    width: 600px;
 }
 .search-button{
     height: 25px;
@@ -30,7 +30,7 @@ body{
 
 .card-large{
     float: left;
-    width: 400px;
+    width: 600px;
     padding-top: 10px;
     padding-bottom: 10px;
     height: 80px;
@@ -38,7 +38,7 @@ body{
 }
 .card-small{
     float: left;
-    width: 200px;
+    width: 300px;
     padding-top: 10px;
     padding-bottom: 10px;
     height: 80px;
