@@ -1,0 +1,80 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 33%;
+    margin-top:13%;
+    margin-left: 40%;
+    height:fit-content;
+}
+.nav-ul{
+    
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding-top: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+.nav-li{
+    float:inline-start;
+}
+.nav-a{
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+.sign-in{
+    margin-right: 80px;
+    height: 35px;
+    width: 80px;
+    font-size: 16px;
+    background-color:dodgerblue;
+    border-radius: 3px;
+    color:white;
+    border:none;
+}
+.searchBar{
+    margin-left: 30%;
+    font-size: 14px;
+    height: 45px;
+    width: 600px;
+    border-radius: 40px;
+    border-style:solid;
+    border-color:rgb(216, 216, 216);
+    margin-top: 2%;
+}
+
+.button1{
+    margin-left: 40%;
+    margin-top:1% ;
+    border: none;
+    color: #5f6368;
+    background-color: #f2f2f2;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 1%;
+    padding-left: 3%;
+    background-color: #f2f2f2;
+    border-top: solid rgb(216, 216, 216) 1px;
+}
+.footer-a{
+    text-decoration: none;
+    color:#5f6368;
+    margin-left: 1%;
+}
